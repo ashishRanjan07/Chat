@@ -14,7 +14,7 @@ import io from 'socket.io-client';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-const socket = io('http://192.168.70.147:3000', {
+const socket = io('http://192.168.70.183:3000', {
   transports: ['websocket']
 });
 

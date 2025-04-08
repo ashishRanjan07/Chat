@@ -11,9 +11,12 @@
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^2.1.2",
+    "@react-native-firebase/app": "^21.13.0",
+    "@react-native-firebase/messaging": "^21.13.0",
     "express": "^5.1.0",
     "react": "19.0.0",
     "react-native": "0.78.2",
+    "react-native-push-notification": "^8.1.1",
     "react-native-vector-icons": "^10.2.0",
     "socket.io": "^4.8.1",
     "socket.io-client": "^4.8.1"
